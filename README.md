@@ -15,7 +15,9 @@
 
  **6.** [x] Create foorth desktop part;
 
- **7.** [x] Create fifth desktop part.
+ **7.** [x] Create fifth desktop part;
+ 
+ **8.** [x] Added dark theme;
 
 
 [def]: https://www.figma.com/file/IKo7HvgaauT3SA3xrfsLDa/Developer-Portfolio-Design-(Community)?node-id=21%3A13&mode=dev
